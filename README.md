@@ -12,6 +12,9 @@
 
 ### Additional Attatchments:
 
-- link to my repo:
-- link to my git-pages:
+- link to my repo: https://github.com/paulwon2223/Workday-Scheduler-PW
+- link to my git-pages: https://paulwon2223.github.io/Workday-Scheduler-PW/
+- screenshot of repo:
+![img](./img/reposs.png)
 - screen shot of working scheduler.
+![img](./img/main.png)
